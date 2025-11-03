@@ -26,7 +26,6 @@ Consolidate two fundamental graph algorithm topics by applying them to a practic
 2. Run the class:
    mst.Main
 3. The program will generate:
-- `results/output.json` — detailed results
 - `analysis_results.csv` — summary table
 
 ---
